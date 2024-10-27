@@ -1,1 +1,21 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=40&pause=1000&color=228BF7&width=435&lines=%E9%BB%91%E5%BF%83%E8%80%81%E6%98%94%E5%B9%B4;Hairuosky.cn" alt="Typing SVG" /></a>
+# 👋 Hi, I’m XiNian-dada
+
+🌱 I’m currently learning **Java** and **Minecraft development**  
+💼 I’m a **high school student**  
+📫 How to reach me: [BLOG](https://blog.hairuosky.cn/)  
+
+## 🛠️ Skills
+- **Languages:** Java
+- **Tools:** IntelliJ IDEA, Docker, 1Panel
+
+## 🌟 Projects
+- [FuckUHFS](https://github.com/XiNian-dada/FuckUHFS) - 好分数查分软件
+- [XiProtection](https://github.com/XiNian-dada/XiProtection) - Minecraft世界保护插件
+- [XiMilkAnother](https://github.com/XiNian-dada/XiMilkAnother) - Minecraft挤奶插件
+
+## 📫 Connect with me
+- [Twitter](https://x.com/snLi281832)
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XiNian-dada&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
