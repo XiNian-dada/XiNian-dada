@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&size=30&pause=1000&color=0093E4&background=02002700&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+Profile+Page!!!" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=XiNian-dada&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />[![Streak Stats](https://streak-stats.demolab.com?user=XiNian-dada&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=XiNian-dada&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 </p>
 <div align="center">
 
