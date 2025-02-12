@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI!%20GUYYYYYS!&fontSize=90&fontAlign=50&fontAlignY=30&desc=XiNian_dada%20Here!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&size=40&pause=1000&color=0B21A4&background=02002700&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile+Page!!!" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&size=30&pause=1000&color=0B21A4&background=02002700&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+Profile+Page!!!" alt="Typing SVG" /></a></p>
 # 👋 Hi, I'm XiNian-dada | 高中生开发者 | High School Developer | Oberschüler Entwickler
 
 <div align="center">
