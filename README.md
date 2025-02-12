@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20This%20is%20XiNian_dada&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20This%20is%20XiNian_dada&fontSize=70)
 # 👋 Hi, I'm XiNian-dada | 高中生开发者 | High School Developer | Oberschüler Entwickler
 
 <div align="center">
