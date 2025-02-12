@@ -3,6 +3,7 @@
 🌱 I’m currently learning **Java** and **Minecraft development**  
 💼 I’m a **high school student**  
 📫 How to reach me: [BLOG](https://blog.hairuosky.cn/)  
+🤷‍♂️ Jabbers: Maybe I'm going to learn GERMANY and Japanese
 
 ## 🛠️ Skills
 - **Languages:** Java
