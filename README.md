@@ -1,66 +1,86 @@
-# 👋 Hi, I'm XiNian-dada | 一个热爱Minecraft开发的高中生开发者
+# 👋 Hi, I'm XiNian-dada | 高中生开发者 | High School Developer | Oberschüler Entwickler
 
-🎓 **High School Student** | 🌐 **Java Enthusiast** | 🎮 **Minecraft Plugin Developer**
+<div align="center">
 
-[![Blog](https://img.shields.io/badge/Visit%20My%20Blog-@Hairuosky-FF5722?style=flat&logo=wordpress)](https://blog.hairuosky.cn/)
-[![Twitter](https://img.shields.io/badge/Follow%20%40snLi281832-1DA1F2?style=flat&logo=twitter)](https://x.com/snLi281832)
-[![GitHub](https://img.shields.io/github/followers/XiNian-dada?label=Follow%20XiNian&style=social)](https://github.com/XiNian-dada)
+🎮 **Minecraft Plugin Specialist** | ☕ **Java Full-Stack** | 🐋 **DevOps Beginner**  
+🎓 中国高中生 | 🇩🇪 德语学习者 | 🇯🇵 日本語勉強中
 
----
+[![Blog](https://img.shields.io/badge/博客-BLOG-FF5722?logo=wordpress&style=for-the-badge)](https://blog.hairuosky.cn/)
+[![Twitter](https://img.shields.io/badge/Twitter-@snLi281832-1DA1F2?logo=twitter&style=for-the-badge)](https://x.com/snLi281832)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_XiNian-181717?logo=github&style=for-the-badge)](https://github.com/XiNian-dada)
 
-## 🚀 技术栈
-
-### **编程语言**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### **开发工具**
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![1Panel](https://img.shields.io/badge/1Panel-%2300C7D9.svg?style=for-the-badge&logo=probot&logoColor=white)
-
-### **其他技能
-📚 正在学习德语 & 日语  
-💡 Minecraft Plugin Development Specialist
+</div>
 
 ---
 
-## 🏆 代表作项目
+## 🛠️ Tech Stack | 技术栈 | Technologie-Stack
+
+<div align="center">
+
+### 🖥️ Languages | 语言 | Programmiersprachen
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&style=for-the-badge)
+
+### 🔧 Tools | 工具 | Werkzeuge
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge)
+![1Panel](https://img.shields.io/badge/1Panel-00C7D9?logo=probot&style=for-the-badge)
+
+</div>
+
+---
+
+## 🌟 Featured Projects | 精选项目 | Ausgewählte Projekte
+
+<div align="center">
 
 ### [FuckUHFS](https://github.com/XiNian-dada/FuckUHFS)
-[![GitHub stars](https://img.shields.io/github/stars/XiNian-dada/FuckUHFS?style=flat)](https://github.com/XiNian-dada/FuckUHFS/stargazers)
-[![License](https://img.shields.io/github/license/XiNian-dada/FuckUHFS)](https://github.com/XiNian-dada/FuckUHFS)
-
-▶️ 针对好分数平台的定制化查分解决方案 | Java + Selenium
+[![Stars](https://img.shields.io/github/stars/XiNian-dada/FuckUHFS?style=flat-square)](https://github.com/XiNian-dada/FuckUHFS/stargazers)
+[![License](https://img.shields.io/github/license/XiNian-dada/FuckUHFS?style=flat-square)](https://github.com/XiNian-dada/FuckUHFS)  
+📊 好分数平台自动化查分系统 | Automated scoring system | Automatisiertes Bewertungssystem  
+`Java` `Selenium` `Web Crawler`
 
 ---
 
-### [XiProtection](https://github.com/XiNian-dada/XiProtection)
-[![Release](https://img.shields.io/github/v/release/XiNian-dada/XiProtection)](https://github.com/XiNian-dada/XiProtection/releases)
-[![Downloads](https://img.shields.io/github/downloads/XiNian-dada/XiProtection/total)](https://github.com/XiNian-dada/XiProtection/releases)
-
-🛡️ Minecraft世界保护插件 | 支持领地管理、方块保护、防爆功能
+### [XiProtection](https://github.com/XiNian-dadata/XiProtection)
+[![Downloads](https://img.shields.io/github/downloads/XiNian-dada/XiProtection/total?style=flat-square)](https://github.com/XiNian-dada/XiProtection/releases)
+[![Release](https://img.shields.io/github/v/release/XiNian-dada/XiProtection?style=flat-square)](https://github.com/XiNian-dada/XiProtection/releases)  
+🛡️ Minecraft世界保护插件 | World protection plugin | Minecraft-Weltschutz-Plugin  
+`Bukkit API` `Region Management` `Anti-Grief`
 
 ---
 
 ### [XiMilkAnother](https://github.com/XiNian-dada/XiMilkAnother)
-[![GitHub issues](https://img.shields.io/github/issues/XiNian-dada/XiMilkAnother)](https://github.com/XiNian-dada/XiMilkAnother/issues)
-🥛 创新式跨物种挤奶插件 | 支持多种生物与自定义产出
+[![Issues](https://img.shields.io/github/issues/XiNian-dada/XiMilkAnother?style=flat-square)](https://github.com/XiNian-dada/XiMilkAnother/issues)  
+🥛 跨物种挤奶系统 | Cross-species milking system | Artübergreifendes Melksystem  
+`Custom Recipes` `Entity Interaction` `Item Management`
+
+</div>
 
 ---
 
-## 📊 开发动态
+## 📈 GitHub Analytics | 开发统计 | Entwicklungsstatistiken
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XiNian-dada&theme=github-dark&hide_border=true&area=true)](https://github.com/XiNian-dada)
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=XiNian-dada&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XiNian-dada&theme=github-dark&area=true&hide_border=true)](https://github.com/XiNian-dada)
+
+[![Streak Stats](https://streak-stats.demolab.com?user=XiNian-dada&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiNian-dada&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/XiNian-dada)
 
+</div>
+
 ---
 
-## 🌐 找到我
-[![Blog](https://img.shields.io/badge/%F0%9F%93%95%20Blog-hairuosky.cn-FF5722)](https://blog.hairuosky.cn/)
-[![Email](https://img.shields.io/badge/%F0%9F%93%A7%20Email-contact%40hairuosky.cn-0078D4)](mailto:contact@hairuosky.cn)
-[![Bilibili](https://img.shields.io/badge/%F0%9F%90%A7%20Bilibili-待补充-00A1D6?style=flat&logo=bilibili)](等待你的B站主页)
+## 🌍 Connect | 联系我 | Kontakt
 
-> "代码即艺术，每个插件都是一个新世界" —— XiNian-dada
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/博客-Blog_访问-FF5722?logo=wordpress&style=for-the-badge)](https://blog.hairuosky.cn/)
+[![Email](https://img.shields.io/badge/邮件-Contact_联系-0078D4?logo=gmail&style=for-the-badge)](mailto:contact@hairuosky.cn)
+[![Bilibili](https://img.shields.io/badge/B站-即将到来-00A1D6?logo=bilibili&style=for-the-badge)](#)
+
+</div>
+
+> "Coding is creating new dimensions | 代码创造新维度 | Programmieren erschafft neue Dimensionen"  
+> ― XiNian-dada
