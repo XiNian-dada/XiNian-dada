@@ -85,5 +85,5 @@
 
 </div>
 
-> "Coding is creating new dimensions | 代码创造新维度 | Programmieren erschafft neue Dimensionen"  
+> "我是生活的细胞，不是机械的电路"  
 > ― XiNian-dada
