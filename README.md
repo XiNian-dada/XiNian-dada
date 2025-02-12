@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi%20Guyyyys!&fontSize=90&fontAlign=50&fontAlignY=30&desc=XiNian_dada%20Here!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI!%20GUYYYYYS!&fontSize=90&fontAlign=50&fontAlignY=30&desc=XiNian_dada%20Here!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 # 👋 Hi, I'm XiNian-dada | 高中生开发者 | High School Developer | Oberschüler Entwickler
 
