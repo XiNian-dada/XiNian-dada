@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI!%20GUYYYYYS!&fontSize=90&fontAlign=50&fontAlignY=30&desc=XiNian_dada%20Here!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=1000&color=0B21A4&background=02002700&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile+Page!!!)](https://git.io/typing-svg)
 # 👋 Hi, I'm XiNian-dada | 高中生开发者 | High School Developer | Oberschüler Entwickler
 
 <div align="center">
