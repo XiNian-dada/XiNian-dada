@@ -21,6 +21,8 @@
 ---
 
 ## 🚀 Project Showcase
+![image](https://github.com/user-attachments/assets/7eff5c6d-f90d-410f-992b-ee7211d1ac17)
+
 ### FuckUHFS - 校园成绩解析器
 [![GitHub Release](https://img.shields.io/github/v/release/XiNian-dada/FuckUHFS?style=flat-square&color=blue)](https://github.com/XiNian-dada/FuckUHFS/releases)
 ![Java Version](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk)
