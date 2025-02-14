@@ -1,6 +1,6 @@
 # Hi there 👋 I'm XiNian
 > **"我是生活的细胞，不是机械的电路"**  
-> _Java Artisan | Minecraft Architect | Future AI Explorer_
+> _Java Artisan | Minecraft Developer | Future AI Explorer_
 
 [![Twitter](https://img.shields.io/badge/-@XiNian_dada-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/XiNian_dada)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=react&logoColor=white)](http://www.hairuosky.cn)
