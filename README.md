@@ -29,8 +29,24 @@
 
 你好！我是 **XiNian_dada**。我是一名游走在虚拟方块世界与现实生物科学之间的开发者。
 
-* 🔨 **Java Spigot Artisan:** 我拥有丰富的 Minecraft 服务端插件开发经验，专注于构建高性能、趣味性的游戏功能。
-* 🧪 **AI & Bio-Med Explorer:** 我正在将技能栈拓展至人工智能领域，致力于探索 **AI + 生物学/医学** 的交叉应用。
+* 🔨 **Java Spigot Artisan:** 拥有丰富的 Minecraft 服务端插件开发经验，专注于构建高性能、趣味性的游戏功能。
+* 🧪 **AI & Bio-Med Explorer:** 正在将技能栈拓展至人工智能领域，致力于探索 **AI + 生物学/医学** 的交叉应用 (AI4Science)。
+
+<br>
+
+### 🔥 挑战与征途 (The Challenge)
+
+> **"千里之行，始于足下。"**
+
+我正在进行一项长期的开源挑战：**在三年内完成 100 个代码库 (Libraries) 的构建**。这是我磨练技术深度与广度的试炼场。
+
+<div align="center">
+
+| **🏆 核心目标** | **🔗 仓库直达** | **🚀 当前进度** |
+| :---: | :---: | :---: |
+| **100 Libraries Challenge** | [**XiNian-dada/100-libs-challenge**](https://github.com/XiNian-dada/100-libs-challenge) | ![Progress](https://img.shields.io/badge/Progress-35%2F100-2ea44f?style=for-the-badge&logo=github) |
+
+</div>
 
 <br>
 
@@ -38,7 +54,7 @@
 
 <div align="center">
 
-| **Minecraft Core** | **AI & Data Base** | **Dev Ops & Tools** |
+| **Minecraft Core** | **AI & Data Science** | **DevOps & Tools** |
 |:---:|:---:|:---:|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) |
 | ![Spigot](https://img.shields.io/badge/Spigot-C68A3C?style=for-the-badge&logo=mojangstudios&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
