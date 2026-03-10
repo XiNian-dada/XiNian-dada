@@ -86,10 +86,9 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XiNian-dada&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiNian-dada&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-seven-ashy-31.vercel.app/api?username=XiNian-dada&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats-seven-ashy-31.vercel.app/api/top-langs/?username=XiNian-dada&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" />
 </div>
-
 ---
 
 <div align="center">
