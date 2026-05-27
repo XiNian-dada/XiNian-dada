@@ -5,13 +5,6 @@
   > _I code blocky worlds and build small, useful tools._
 
   <br/>
-
-  <a href="https://twitter.com/XiNian_dada">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="http://www.hairuosky.cn">
-    <img src="https://img.shields.io/badge/Portfolio-%238A2BE2.svg?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
 </div>
 
 ---
