@@ -53,7 +53,7 @@
 
 | 目标 | 仓库 | 当前进度 |
 |:---:|:---:|:---:|
-| 100 Libraries | [XiNian-dada/100-libs-challenge](https://github.com/XiNian-dada/100-libs-challenge) | **60 / 100** |
+| 100 Libraries | [XiNian-dada/100-libs-challenge](https://github.com/XiNian-dada/100-libs-challenge) | **63 / 100** |
 
 </div>
 
